@@ -9,7 +9,7 @@ namespace Calculos
     /// <summary>
     /// Esta classe implementa operações de conversão
     /// </summary>
-    /// 
+    /// teste para atividade
 
     internal static class Conversoes
     {
