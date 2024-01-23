@@ -9,7 +9,7 @@ namespace Calculos
     /// <summary>
     /// Esta classe implementa operações de conversão
     /// </summary>
-    /// 
+    /// Git Test
 
     internal static class Conversoes
     {
